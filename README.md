@@ -274,7 +274,7 @@ Make sure the required model files, datasets, mapping files, and API configurati
 ### Step 5: Run the Application
 
 ```bash
-streamlit run app_final5.py
+streamlit run app_final.py
 ```
 
 Open the local URL displayed in the terminal to access the NeoLipi application.
